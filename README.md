@@ -1,5 +1,5 @@
 # Unity-Inventory-Management-System
-![Derby DELI-ver - Inventory System - Windows, Mac, Linux - Unity 6 (6000 0 23f1)_ _DX11_ 20 12 2024 г  22_26_33](https://github.com/user-attachments/assets/541cdba6-2ad4-478b-9e45-35c90120488e)
+![Derby DELI-ver - Inventory System - Windows, Mac, Linux - Unity 6 (6000 0 23f1)_ _DX11_ 20 12 2024 г  22_26_33](https://github.com/user-attachments/assets/54fb9cea-0b7b-4710-a772-82591be9ca5a)
 
 <h2>Description</h2>
 This inventory system was originally designed for managing soda-related items in a 2D game. However, thanks to its modular and scriptable architecture, it can be easily adapted for various use cases. Whether you need an inventory for tools, weapons, resources, or other in-game items, this system provides the flexibility to meet your needs.
